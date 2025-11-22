@@ -31,6 +31,7 @@
     <div class="col-xl-9 col-lg-10">
       
       <div class="text-center mb-4" in:fade={{ duration: 800, delay: 200 }}>
+        <br/>
         <h1 class="display-4 fw-bold text-gradient mb-2">AxelBase Generator</h1>
         <p class="lead text-muted">Secure, instant, local UUIDs for your next project.</p>
       </div>
